@@ -1,4 +1,4 @@
-#Embedded Arduino Projects
+# Embedded Arduino Projects
 
 ## Sumbot
 The sumobot is an autonomous robot which must push competitor sumobots outside a battle arena by using a motor, ultrasonic sensors, and an LDR.
